@@ -46,11 +46,11 @@ Accuracy:96%
 pandas
 numpy
 scikit-learn
-
+<br>
 📁 Files
 01_KNN_Cancer_Prediction/
 ├── KNN_Cancer.ipynb
 ├── dataset.csv
 └── README.md
-
+</br>
 Built while learning Scikit-Learn — Ryan & Matt Data Science playlist
